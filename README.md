@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @K0EKJE
 - ✨ I'm new to github, and currently I'm starting to put some of my projects done before in my repositories. 
-- 👀 I’m interested in Finance, Data Science and Machine Learning
+- 👀 I’m interested in Data Science Machine Learning, and Quantitative Finance
 - 📫 How to reach me: mm615781876@sina.com
 
 <!---
