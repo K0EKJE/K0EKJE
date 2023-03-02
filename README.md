@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @K0EKJE
 - 👀 I’m interested in Data Science and Machine Learning
-- 📫 How to reach me: mm615781876@sina.com
+- 📫 How to reach me: jhr12578@g.ucla.edu
 
 <!---
 K0EKJE/K0EKJE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
