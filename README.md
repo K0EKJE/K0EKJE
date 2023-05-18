@@ -1,7 +1,7 @@
 ### <!-- <h2 align="center">Hi there, 👋 I'm Haoran! 😎</h2> -->
 
 - 👋 Hi, I’m @K0EKJE
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 My current research interests includes the application of Tenser Decomposition methods in neural network compression and explainable machine learning
 - 📫 How to reach me: jhr12578@g.ucla.edu
 
 <!---
