@@ -1,7 +1,7 @@
 ### <!-- <h2 align="center">Hi there, 👋 I'm Haoran! 😎</h2> -->
 
-- 👋 Hi, I’m @K0EKJE
-- 👀 I'm interested in machine learning and data science
+- 👋 Hi, I’m Rain
+- 👀 I'm interested in machine learning and data science. I'm currently researching the application of tensor decomposition in CNN, and CNN interpretability with SVD. 
 - 📫 How to reach me: jhr12578@g.ucla.edu
 
 <!---
